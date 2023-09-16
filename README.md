@@ -8,3 +8,6 @@ In addition to the project, this repository contains 3 assignments, with all fou
 ### Assignment-1: Tensor Operations
 ### Assignment-2: Insurance Cost Prediction Using Linear Regression
 ### Assignment-3: Image Classification Using Feedforward Neural Network
+
+<br><br>
+Certificate Link: https://jovian.com/certificate/MFQTQNZVGM
